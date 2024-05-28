@@ -1,6 +1,6 @@
-<h1 align="center">Projeto Alura Plus</h1>
+<h1 align="center">Projeto #1 - Alura Plus</h1>
 
-<p align="center">Este é o 2º projeto desenvolvido no curso da Formação Front-End da Platafroma Alura, apresentado por Monica Hillman.</p>
+<p align="center">Este é o 1º projeto desenvolvido no curso da Formação Front-End da Platafroma Alura, apresentado por Monica Hillman.</p>
 
 ![Captura de Tela 2024-05-28 às 19 17 55](https://github.com/paulateshima/aluraplus/assets/170154538/cf4c0e77-3b21-4c2a-846e-7155b74afab2)
 
