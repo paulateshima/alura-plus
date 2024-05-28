@@ -37,5 +37,5 @@ Este Projeto está sob a licença MIT.
 
 ## Acesso ao Projeto:
 
-Você pode acessar este Projeto 👉 [aqui](https://jogo-numero-secreto-chi-taupe.vercel.app/)
+Você pode acessar este Projeto 👉 [aqui](https://aluraplus-chi-swart.vercel.app/)
 
